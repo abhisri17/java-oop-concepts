@@ -1,7 +1,3 @@
-Here's the merged file:
-
-***
-
 # Abstraction in Java: Abstract Classes & Interfaces
 
 ## 1. Core Idea of Abstraction
